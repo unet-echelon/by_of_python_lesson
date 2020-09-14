@@ -1,0 +1,1 @@
+puts "wert".class.name #String  -  клас строка
